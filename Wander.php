@@ -127,6 +127,6 @@ $RNGCODE = FALSE;
 	</div>
 </div>';
 
-include('Style/Footer.php');
+//include('Style/Footer.php');
 
 ?>
