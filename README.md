@@ -1,5 +1,4 @@
-# Gallery-Sample
-Adventurer Generator
+# Gallery-Sample Adventurer Generator
 
 http://briarlantern.com/Wander.php
 
